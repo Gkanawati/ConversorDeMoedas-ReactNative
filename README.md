@@ -12,7 +12,7 @@ No app também é possível escolher dentre uma grande variedade de moedas dispo
 
 ## :bulb: Tecnologias usadas:
 
-- `React Native CLI`
+- `React Native`
 - `Expo`
 - `Axios`
 - `Javascript`
