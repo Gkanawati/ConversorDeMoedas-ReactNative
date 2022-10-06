@@ -4,7 +4,7 @@
 
 ## :rocket: Sobre o projeto
 
-Esse é um Aplicativo conversor de Moedas em tempo real. O app é responsável por buscar as informações atualizadas em tempo real via API e realizar as taxas de conversão para o Real (R$)
+Esse é um Aplicativo conversor de Moedas em tempo real. O app é responsável por buscar as informações atualizadas em tempo real via API e realizar a conversão para o Real (R$)
 
 O App foi construído com React Native, uma biblioteca Javascript, utilizada para criação de aplicativos móveis de maneira nativa. O projeto foi desenvolvido para ambas as plataformas operacionais, tanto Android, quando IOS, em um único código base, e ainda sim mantendo um bom desempenho e responsividade.
 
